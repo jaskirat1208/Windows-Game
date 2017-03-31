@@ -9,4 +9,4 @@ This game comprises of two modes:
 
 ##### Video: you can check out its video here(https://www.youtube.com/watch?v=MJNwBx_Hbhg) 
 ##### Packages used: Unity asset store(https://www.assetstore.unity3d.com/en/#!/)
-##### Softwares: Unity, Microsoft
+##### Softwares: Unity3D, Microsoft Visual Studio
